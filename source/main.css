@@ -1,0 +1,20 @@
+.accountName {
+    color: black;    
+    display: inline-block;
+    margin: 20px;
+}
+
+.balance {
+
+    color: black;    
+    display: block;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.account {
+    display: inline-block;
+    border: 1px solid gray;
+    margin: 10px;
+}
+
